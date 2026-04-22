@@ -1,0 +1,13 @@
+streamlit
+pandas
+seaborn
+matplotlib
+easyocr
+pyyaml
+bcrypt
+qrcode
+pillow
+opencv-python
+openpyxl
+google-generativeai
+python-dotenv
